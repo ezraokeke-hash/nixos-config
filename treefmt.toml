@@ -1,3 +1,2 @@
 [formatter.nix]
-command = "nixfmt"
-includes = ["*.nix"]
+command = "undo nixfmt"
